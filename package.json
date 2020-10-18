@@ -1,6 +1,6 @@
 {
   "name": "cra-template-marish",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "react",
     "create-react-app",
@@ -9,7 +9,7 @@
   "description": "The base template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Marishwaran99/cra-template.git",
+    "url": "https://github.com/Marishwaran99/CRA-TEMPLATE-MARISH.git",
     "directory":"/"
   },
   "license": "MIT",
