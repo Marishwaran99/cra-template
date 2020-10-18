@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/facebook/create-react-app/issues"
   },
+  "main":"template.json",
   "files": [
     "template",
     "template.json"
